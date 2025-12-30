@@ -89,7 +89,7 @@ Songs are grouped using **K-Means clustering**, and recommendations are generate
 | Metric               | Value    | Interpretation                 |
 | -------------------- | -------- | ------------------------------ |
 | Silhouette Score     | ~0.23    | Good separation for music data |
-| Davies–Bouldin Index | ~1.53    | Acceptable cluster compactness |
+| Davies–Bouldin Index | ~1.54    | Acceptable cluster compactness |
 | Cluster Balance      | 8% – 48% | Healthy distribution           |
 
 ---
